@@ -1,11 +1,2 @@
-LULAV SPACE!!!!
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Lulav Space is an Israeli robotics software company founded in 2021.
+ֿֿWe are a team of experienced robotics engineers, and our team members took part in Israel’s Beresheet mission - the first private mission launched to the moon in 2019. We are now participating in the Beresheet2 mission, which will launch to the moon in 2025.

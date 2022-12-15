@@ -1,3 +1,5 @@
+![Getting Started](/Lulav_Citros.jpg)
+
 # Robotics. Out of This World.
 
 Lulav Space is an Israeli robotics software company founded in 2021.  

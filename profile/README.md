@@ -6,7 +6,7 @@
 | [citros_worker](https://github.com/lulav/citros_worker) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml) |
 | [citros_api](https://github.com/lulav/citros_api) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_api/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_api/actions/workflows/gcr.yml) |
 | [citros_db](https://github.com/lulav/citros_db) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_db/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_db/actions/workflows/gcr.yml) |
-
+| (citros_web)[https://github.com/lulav/citros_web] | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_web/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_web/actions/workflows/gcr.yml) |
 
 # Robotics. Out of This World.
 

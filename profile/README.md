@@ -8,7 +8,7 @@
 | [citros_db](https://github.com/lulav/citros_db) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_db/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_db/actions/workflows/gcr.yml) |
 | [citros_web](https://github.com/lulav/citros_web) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_web/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_web/actions/workflows/gcr.yml) |
 | [citros_data_analysis](https://github.com/lulav/citros_data_analysis) | [![Push Python Package 📦 to GCR GitHub Action](https://github.com/lulav/citros_data_analysis/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_data_analysis/actions/workflows/gcr.yml) |
-| [citros_cli](https://github.com/lulav/citros_cli) | CLI tool CI/CD |
+| [citros_cli](https://github.com/lulav/citros_cli) | [![Publish CITROS_CLI to PyPI / GitHub](https://github.com/lulav/citros_cli/actions/workflows/release_to_pypi.yaml/badge.svg)](https://github.com/lulav/citros_cli/actions/workflows/release_to_pypi.yaml) |
 
 # Robotics. Out of This World.
 

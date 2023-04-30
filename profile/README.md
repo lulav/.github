@@ -5,6 +5,7 @@
 | -- | -- |
 | [citros_worker](https://github.com/lulav/citros_worker) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml) |
 | [citros_api](https://github.com/lulav/citros_api) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_api/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_api/actions/workflows/gcr.yml) |
+| [citros_api](https://github.com/lulav/citros_apy) |  |
 | [citros_db](https://github.com/lulav/citros_db) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_db/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_db/actions/workflows/gcr.yml) |
 | [citros_web](https://github.com/lulav/citros_web) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_web/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_web/actions/workflows/gcr.yml) |
 | [citros_data_analysis](https://github.com/lulav/citros_data_analysis) | [![Push Python Package 📦 to GCR GitHub Action](https://github.com/lulav/citros_data_analysis/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_data_analysis/actions/workflows/gcr.yml) |

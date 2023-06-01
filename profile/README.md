@@ -14,6 +14,7 @@
 | [citros_doc](https://github.com/lulav/citros_doc) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_doc/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_doc/actions/workflows/gcr.yml) |
 | [citros_simulation_observability](https://github.com/lulav/citros_simulation_observability) ||
 | [citros_hot_reload](https://github.com/lulav/citros_hot_reload) ||
+| [citros_k8s](https://github.com/lulav/citros_k8s) ||
 # Robotics. Out of This World.
 
 Lulav Space is an Israeli robotics software company founded in 2021.  

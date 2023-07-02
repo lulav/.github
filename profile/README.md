@@ -1,7 +1,7 @@
 ![Getting Started](/Lulav_Citros.jpg)
 
 # CITROS projects
-| repo | status |
+| repo | status | 
 | -- | -- |
 | [citros_worker](https://github.com/lulav/citros_worker) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml) |
 | [citros_api](https://github.com/lulav/citros_api) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_api/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_api/actions/workflows/gcr.yml) |

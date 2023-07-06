@@ -18,6 +18,8 @@
 | [citros_resource_consumption](https://github.com/lulav/citros_resource_consumption) ||
 | [citros-api-gitolite](https://github.com/lulav/citros-api-gitolite)||
 | [citros-docker-gitolite](https://github.com/lulav/citros-docker-gitolite)||
+| [citros_consumers](https://github.com/lulav/citros_consumers) ||
+
 # Robotics. Out of This World.
 
 Lulav Space is an Israeli robotics software company founded in 2021.  

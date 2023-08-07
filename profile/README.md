@@ -19,6 +19,7 @@
 | [citros-api-gitolite](https://github.com/lulav/citros-api-gitolite)||
 | [citros-docker-gitolite](https://github.com/lulav/citros-docker-gitolite)||
 | [citros_consumers](https://github.com/lulav/citros_consumers) ||
+| [citros_bucket_downloader](https://github.com/lulav/citros_bucket_downloader) ||
 
 # Robotics. Out of This World.
 

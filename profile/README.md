@@ -1,26 +1,5 @@
 ![Getting Started](/Lulav_Citros.jpg)
 
-# CITROS projects 
-| repo | status | 
-| -- | -- |
-| [citros_worker](https://github.com/lulav/citros_worker) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_worker/actions/workflows/gcr.yml) |
-| [citros_api](https://github.com/lulav/citros_api) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_api/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_api/actions/workflows/gcr.yml) |
-| [citros_apy](https://github.com/lulav/citros_apy) |  |
-| [citros_db](https://github.com/lulav/citros_db) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_db/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_db/actions/workflows/gcr.yml) |
-| [citros_web](https://github.com/lulav/citros_web) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_web/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_web/actions/workflows/gcr.yml) |
-| [citros_data_analysis](https://github.com/lulav/citros_data_analysis) | [![Push Python Package 📦 to GCR GitHub Action](https://github.com/lulav/citros_data_analysis/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_data_analysis/actions/workflows/gcr.yml) |
-| [citros_cli](https://github.com/lulav/citros_cli) | [![Publish CITROS_CLI to PyPI / GitHub](https://github.com/lulav/citros_cli/actions/workflows/release_to_pypi.yaml/badge.svg)](https://github.com/lulav/citros_cli/actions/workflows/release_to_pypi.yaml) |
-| [citros_kernels](https://github.com/lulav/citros_kernels) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_kernels/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_kernels/actions/workflows/gcr.yml) |
-| [citros_doc](https://github.com/lulav/citros_doc) | [![Push Docker to GCR GitHub Action](https://github.com/lulav/citros_doc/actions/workflows/gcr.yml/badge.svg)](https://github.com/lulav/citros_doc/actions/workflows/gcr.yml) |
-| [citros_simulation_observability](https://github.com/lulav/citros_simulation_observability) ||
-| [citros_hot_reload](https://github.com/lulav/citros_hot_reload) ||
-| [citros_k8s](https://github.com/lulav/citros_k8s) ||
-| [citros_resource_consumption](https://github.com/lulav/citros_resource_consumption) ||
-| [citros-api-gitolite](https://github.com/lulav/citros-api-gitolite)||
-| [citros-docker-gitolite](https://github.com/lulav/citros-docker-gitolite)||
-| [citros_consumers](https://github.com/lulav/citros_consumers) ||
-| [citros_bucket_downloader](https://github.com/lulav/citros_bucket_downloader) ||
-
 # Robotics. Out of This World.
 
 Lulav Space is an Israeli robotics software company founded in 2021.  
